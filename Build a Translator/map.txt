@@ -1,0 +1,6 @@
+Girraffe Langague
+vowels -> g
+-----------
+
+dog -> dgg
+cat -> cgt
